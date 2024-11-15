@@ -1,0 +1,8 @@
+[21:21:27:2127 INF] Serilog is functioning correctly.
+[21:21:27:2127 INF] End execution.
+[22:52:02:522 INF] Serilog is functioning correctly.
+[22:52:02:522 FTL] Fatal Exception occurred: No service for type 'Examples.SomeOtherProject.TestFunction' has been registered.
+[22:52:02:522 INF] End execution.
+[22:52:26:5226 INF] Serilog is functioning correctly.
+[22:52:26:5226 INF] Test function executed successfully.
+[22:52:26:5226 INF] End execution.

@@ -1,0 +1,3 @@
+[10:07:44:744 INF] Serilog is functioning correctly.
+[10:07:44:744 INF] Test function executed successfully.
+[10:07:44:744 INF] End execution.

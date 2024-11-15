@@ -1,0 +1,15 @@
+C:\Users\Somnarium\source\repos\Examples.REST_API\Examples.Data\bin\Debug\net8.0\Examples.Data.deps.json
+C:\Users\Somnarium\source\repos\Examples.REST_API\Examples.Data\bin\Debug\net8.0\Examples.Data.dll
+C:\Users\Somnarium\source\repos\Examples.REST_API\Examples.Data\bin\Debug\net8.0\Examples.Data.pdb
+C:\Users\Somnarium\source\repos\Examples.REST_API\Examples.Data\bin\Debug\net8.0\Examples.Models.dll
+C:\Users\Somnarium\source\repos\Examples.REST_API\Examples.Data\bin\Debug\net8.0\Examples.Models.pdb
+C:\Users\Somnarium\source\repos\Examples.REST_API\Examples.Data\obj\Debug\net8.0\Examples.Data.csproj.AssemblyReference.cache
+C:\Users\Somnarium\source\repos\Examples.REST_API\Examples.Data\obj\Debug\net8.0\Examples.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Somnarium\source\repos\Examples.REST_API\Examples.Data\obj\Debug\net8.0\Examples.Data.AssemblyInfoInputs.cache
+C:\Users\Somnarium\source\repos\Examples.REST_API\Examples.Data\obj\Debug\net8.0\Examples.Data.AssemblyInfo.cs
+C:\Users\Somnarium\source\repos\Examples.REST_API\Examples.Data\obj\Debug\net8.0\Examples.Data.csproj.CoreCompileInputs.cache
+C:\Users\Somnarium\source\repos\Examples.REST_API\Examples.Data\obj\Debug\net8.0\Examples.4D1EA4F2.Up2Date
+C:\Users\Somnarium\source\repos\Examples.REST_API\Examples.Data\obj\Debug\net8.0\Examples.Data.dll
+C:\Users\Somnarium\source\repos\Examples.REST_API\Examples.Data\obj\Debug\net8.0\refint\Examples.Data.dll
+C:\Users\Somnarium\source\repos\Examples.REST_API\Examples.Data\obj\Debug\net8.0\Examples.Data.pdb
+C:\Users\Somnarium\source\repos\Examples.REST_API\Examples.Data\obj\Debug\net8.0\ref\Examples.Data.dll

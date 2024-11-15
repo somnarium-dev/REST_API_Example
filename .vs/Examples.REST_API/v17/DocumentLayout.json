@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Somnarium\\source\\repos\\Examples.REST_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34C9E8F1-49F2-4DE1-AE88-B19289FB5ADE}|Examples.WebApi\\Examples.WebApi.csproj|c:\\users\\somnarium\\source\\repos\\examples.rest_api\\examples.webapi\\controllers\\exdbhistorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34C9E8F1-49F2-4DE1-AE88-B19289FB5ADE}|Examples.WebApi\\Examples.WebApi.csproj|solutionrelative:examples.webapi\\controllers\\exdbhistorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34C9E8F1-49F2-4DE1-AE88-B19289FB5ADE}|Examples.WebApi\\Examples.WebApi.csproj|c:\\users\\somnarium\\source\\repos\\examples.rest_api\\examples.webapi\\controllers\\exdbparticipantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34C9E8F1-49F2-4DE1-AE88-B19289FB5ADE}|Examples.WebApi\\Examples.WebApi.csproj|solutionrelative:examples.webapi\\controllers\\exdbparticipantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34C9E8F1-49F2-4DE1-AE88-B19289FB5ADE}|Examples.WebApi\\Examples.WebApi.csproj|c:\\users\\somnarium\\source\\repos\\examples.rest_api\\examples.webapi\\services\\exdbhistorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34C9E8F1-49F2-4DE1-AE88-B19289FB5ADE}|Examples.WebApi\\Examples.WebApi.csproj|solutionrelative:examples.webapi\\services\\exdbhistorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34C9E8F1-49F2-4DE1-AE88-B19289FB5ADE}|Examples.WebApi\\Examples.WebApi.csproj|c:\\users\\somnarium\\source\\repos\\examples.rest_api\\examples.webapi\\services\\iexdbhistorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34C9E8F1-49F2-4DE1-AE88-B19289FB5ADE}|Examples.WebApi\\Examples.WebApi.csproj|solutionrelative:examples.webapi\\services\\iexdbhistorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IExDbHistoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\Somnarium\\source\\repos\\Examples.REST_API\\Examples.WebApi\\Services\\IExDbHistoryManager.cs",
+              "RelativeDocumentMoniker": "Examples.WebApi\\Services\\IExDbHistoryManager.cs",
+              "ToolTip": "C:\\Users\\Somnarium\\source\\repos\\Examples.REST_API\\Examples.WebApi\\Services\\IExDbHistoryManager.cs",
+              "RelativeToolTip": "Examples.WebApi\\Services\\IExDbHistoryManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T02:47:37.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExDbHistoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\Somnarium\\source\\repos\\Examples.REST_API\\Examples.WebApi\\Services\\ExDbHistoryManager.cs",
+              "RelativeDocumentMoniker": "Examples.WebApi\\Services\\ExDbHistoryManager.cs",
+              "ToolTip": "C:\\Users\\Somnarium\\source\\repos\\Examples.REST_API\\Examples.WebApi\\Services\\ExDbHistoryManager.cs",
+              "RelativeToolTip": "Examples.WebApi\\Services\\ExDbHistoryManager.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwE4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T02:42:54.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExDbParticipantController.cs",
+              "DocumentMoniker": "C:\\Users\\Somnarium\\source\\repos\\Examples.REST_API\\Examples.WebApi\\Controllers\\ExDbParticipantController.cs",
+              "RelativeDocumentMoniker": "Examples.WebApi\\Controllers\\ExDbParticipantController.cs",
+              "ToolTip": "C:\\Users\\Somnarium\\source\\repos\\Examples.REST_API\\Examples.WebApi\\Controllers\\ExDbParticipantController.cs",
+              "RelativeToolTip": "Examples.WebApi\\Controllers\\ExDbParticipantController.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAIwJcAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T01:52:25.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExDbHistoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Somnarium\\source\\repos\\Examples.REST_API\\Examples.WebApi\\Controllers\\ExDbHistoryController.cs",
+              "RelativeDocumentMoniker": "Examples.WebApi\\Controllers\\ExDbHistoryController.cs",
+              "ToolTip": "C:\\Users\\Somnarium\\source\\repos\\Examples.REST_API\\Examples.WebApi\\Controllers\\ExDbHistoryController.cs",
+              "RelativeToolTip": "Examples.WebApi\\Controllers\\ExDbHistoryController.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAUwLIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T00:41:15.21Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
